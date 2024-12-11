@@ -3,7 +3,7 @@ Check the program out in the releases menu! This is only a pre-release for now b
 
 I have gotten a lot of projects recently where I am given a photo and an overall dimension and expected to make a part. I have been looking for a tool so that I could set a scale for the image and then get other measurements but I have not been able to find anything. This tool is my attempt to solve my problem.
 
-<img src="https://github.com/Radioactivebun0/Image-Measure/blob/main/pics/Screenshot%202024-12-10%20223751.png?raw=true" width="400" />
+<img src="https://github.com/Radioactivebun0/Image-Measure/blob/main/pics/Screenshot%202024-12-10%20223751.png?raw=true" width="800" />
 
 As you can see in this picture, I have two images pulled up of a motorcycle brake pedal that I would like to get some measurements off of. Using this program, I was able to get enough measurements to make a new brake pedal.
 
